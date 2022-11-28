@@ -1,0 +1,139 @@
+body{
+    color: black;
+    font-family: ariel;
+    background-image:BGpic ;
+    background-size: cover;
+    
+        color: #FFFFFF;
+
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-align:center;
+    color: rgb(108, 143, 106);
+
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: uppercase;
+    text-align: justify;
+    letter-spacing: 3px;
+    font: size 5px;
+    margin-left: 43%;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    text-size-adjust: 20px;
+    color: bisque;
+    margin-right: 04%;
+
+    
+}
+h4{
+    width: 80%;
+}
+h5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    
+    
+}
+
+header{
+    
+    width: 40%;
+    height: 100%;
+    text-align: center;
+}
+
+main{
+    
+    font-weight: 200;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    
+    
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    line-height: 1;
+    color: black;
+    text-align: center;
+    
+}
+.p1{
+    background-color: ;
+}
+
+.Flex-container{
+    display: flex;
+    height: 40%;
+    width: 60%;
+ 
+}
+
+.Flex-container2{
+    font-family: 'Roboto', sans-serif;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    height: 50%;
+    width: 50%;
+    padding-left: 23%;
+    
+}
+
+.Flex-container3{
+    display: block;
+    text-align: center;
+    padding-left: 27%;
+    height: 40%;
+    width: 40%;
+    
+    
+}
+
+.link{
+    display: block;
+    text-decoration: none;
+    background-color: rgba(106, 152, 105, 0.629);
+    color: white;
+    text-align: center;
+    margin: 15px;
+    border-radius: 10px;
+    box-sizing: 30%;
+    
+}
+
+.link:hover{
+    color: rgb(211, 197, 118);
+}
+
+.link2{
+    display: block;
+    text-decoration: none;
+    background-color: rgba(106, 152, 105, 0.629);
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    margin-left:20%;
+    margin-right: 20%;
+    box-sizing: 0%;
+    color: beige;
+    
+    
+
+}
+.link2:hover{
+    color: rgb(211, 197, 118);
+}
+
+
+
+
+
